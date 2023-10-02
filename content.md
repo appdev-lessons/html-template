@@ -65,7 +65,7 @@ If you're ever unsure of who is paying for the codespace hours in a given reposi
 
 ## HTML Template
 
-We made use of the HTML Template beginning in the "Hello, world!" lesson, which was actually just a project we generated from that template and added a couple of `rake grade` tests to. It's a good template for creating static HTML + CSS sites and deploying to GitHub Pages.
+We made use of the HTML Template beginning in the "Hello, world!" lesson, which was actually just a project we generated from that template and added a couple of `rake grade` tests to. It's a good template for creating static HTML + CSS sites.
 
 You can find the repository at:
 
@@ -97,7 +97,7 @@ But, when you booted up a codespace, the integrated VSCode file explorer appeare
 
 I can assure you, the files _are_ there, but early in your developer journey we didn't want to distract you with all the supplementary files needed to do things like setup the codespaces environment, monitor your Git version controlling, run the live preview, and more. So we "hid" them in the VSCode explorer!
 
-Curious? Just go to a bash prompt in terminal pane and run the command: 
+Curious? Just go to a bash prompt in the terminal pane and run the command: 
 
 ```
 % ls -a
